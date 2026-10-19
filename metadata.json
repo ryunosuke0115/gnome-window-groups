@@ -1,0 +1,7 @@
+{
+  "uuid": "window-groups@local.dev",
+  "name": "Window Groups",
+  "description": "Manage pairs of split application windows as switchable workspace-local tabs.",
+  "shell-version": ["46"],
+  "version": 19
+}

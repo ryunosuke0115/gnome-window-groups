@@ -1,0 +1,14 @@
+.window-groups-window-label {
+    max-width: 34em;
+}
+.window-groups-tabs { spacing: 4px; }
+.window-groups-tab { padding: 0 8px; border-radius: 5px; }
+.window-groups-tab StLabel { max-width: 7em; }
+.window-groups-tab:hover { background-color: rgba(255, 255, 255, 0.15); }
+.window-groups-tab:active { background-color: rgba(255, 255, 255, 0.3); }
+.window-groups-name { min-width: 16em; }
+.window-groups-drop-target { border: 3px solid #78aeed; border-radius: 12px; }
+.window-groups-dialog { min-width: 28em; }
+.window-groups-dialog-title { font-size: 1.2em; font-weight: bold; }
+.window-groups-dialog-details { max-width: 36em; margin: 12px 0; }
+.window-groups-dialog-error { max-width: 36em; color: #f99; margin-top: 8px; }
